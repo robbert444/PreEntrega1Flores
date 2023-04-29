@@ -1,0 +1,14 @@
+
+.imgLogo{
+    width: 50px;
+}
+li {
+    margin: 0 2rem;
+}
+
+.navbar-brand{
+    font-family: 'Gentium Book Plus', serif;
+    font-weight: 700;
+    color: black;
+    font-size: 1.5rem;
+}
